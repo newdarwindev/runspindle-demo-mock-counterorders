@@ -1,0 +1,19 @@
+{
+  "id": "mock-counterorders",
+  "name": "Crumb & Counter",
+  "mark": "C&C",
+  "tagline": "Good mornings start with a good plan.",
+  "colors": {
+    "background": "#fff4df",
+    "surface": "#fffdf6",
+    "text": "#57351e",
+    "accent": "#914716"
+  },
+  "typography": {
+    "display": "Georgia, serif",
+    "body": "Trebuchet MS, sans-serif",
+    "tracking": ".01em"
+  },
+  "style": "bakery",
+  "radius": 24
+}
