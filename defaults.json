@@ -1,0 +1,12 @@
+{
+  "app": "mock-counterorders",
+  "title": "Counterorders \u00b7 Fictional demo",
+  "port": 4302,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "decide-pickup"
+  ]
+}
